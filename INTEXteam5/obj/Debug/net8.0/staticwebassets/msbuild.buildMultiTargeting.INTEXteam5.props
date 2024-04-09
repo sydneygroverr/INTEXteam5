@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\INTEXteam5.props" />
+</Project>

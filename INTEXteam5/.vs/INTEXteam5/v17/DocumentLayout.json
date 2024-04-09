@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sydne\\source\\repos\\Mission10_Dawson\\backend\\INTEXteam5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD27CAB3-8DF7-4F58-A9AD-E10D50D09435}|INTEXteam5.csproj|c:\\users\\sydne\\source\\repos\\mission10_dawson\\backend\\intexteam5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD27CAB3-8DF7-4F58-A9AD-E10D50D09435}|INTEXteam5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD27CAB3-8DF7-4F58-A9AD-E10D50D09435}|INTEXteam5.csproj|c:\\users\\sydne\\source\\repos\\mission10_dawson\\backend\\intexteam5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BD27CAB3-8DF7-4F58-A9AD-E10D50D09435}|INTEXteam5.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD27CAB3-8DF7-4F58-A9AD-E10D50D09435}|INTEXteam5.csproj|c:\\users\\sydne\\source\\repos\\mission10_dawson\\backend\\intexteam5\\areas\\identity\\pages\\account\\manage\\enableauthenticator.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD27CAB3-8DF7-4F58-A9AD-E10D50D09435}|INTEXteam5.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\enableauthenticator.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD27CAB3-8DF7-4F58-A9AD-E10D50D09435}|INTEXteam5.csproj|c:\\users\\sydne\\source\\repos\\mission10_dawson\\backend\\intexteam5\\intexteam5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BD27CAB3-8DF7-4F58-A9AD-E10D50D09435}|INTEXteam5.csproj|solutionrelative:intexteam5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD27CAB3-8DF7-4F58-A9AD-E10D50D09435}|INTEXteam5.csproj|c:\\users\\sydne\\source\\repos\\mission10_dawson\\backend\\intexteam5\\areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD27CAB3-8DF7-4F58-A9AD-E10D50D09435}|INTEXteam5.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnableAuthenticator.cshtml",
+              "DocumentMoniker": "C:\\Users\\sydne\\source\\repos\\Mission10_Dawson\\backend\\INTEXteam5\\Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml",
+              "ToolTip": "C:\\Users\\sydne\\source\\repos\\Mission10_Dawson\\backend\\INTEXteam5\\Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml",
+              "ViewState": "AQIAADQAAAAAAAAAAAAmwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T17:38:47.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sydne\\source\\repos\\Mission10_Dawson\\backend\\INTEXteam5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sydne\\source\\repos\\Mission10_Dawson\\backend\\INTEXteam5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T17:28:05.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "INTEXteam5.csproj",
+              "DocumentMoniker": "C:\\Users\\sydne\\source\\repos\\Mission10_Dawson\\backend\\INTEXteam5\\INTEXteam5.csproj",
+              "RelativeDocumentMoniker": "INTEXteam5.csproj",
+              "ToolTip": "C:\\Users\\sydne\\source\\repos\\Mission10_Dawson\\backend\\INTEXteam5\\INTEXteam5.csproj",
+              "RelativeToolTip": "INTEXteam5.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-09T17:27:03.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sydne\\source\\repos\\Mission10_Dawson\\backend\\INTEXteam5\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\sydne\\source\\repos\\Mission10_Dawson\\backend\\INTEXteam5\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-09T17:25:41.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sydne\\source\\repos\\Mission10_Dawson\\backend\\INTEXteam5\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sydne\\source\\repos\\Mission10_Dawson\\backend\\INTEXteam5\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T17:24:40.999Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
